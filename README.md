@@ -15,7 +15,7 @@
 
 ## 2. PHP e SQL
 
-*Obs.: você usar a abordagem que preferir (estruturada ou orientada a objetos)*
+*Obs.: você pode usar a abordagem que preferir (estruturada ou orientada a objetos)*
 
 - Programe os scripts PHP necessários para acessar o Banco de Dados usando PDO.
 - Programe os scripts PHP/SQL necessários para realizar as operações CRUD para o aluno
@@ -26,7 +26,7 @@
 
 ## 3. PHP
 
-*Obs.: você usar a abordagem que preferir (estruturada ou orientada a objetos)*
+*Obs.: você pode usar a abordagem que preferir (estruturada ou orientada a objetos)*
 
 - Na página **inserir.php**, programe os recursos necessários para fazer INSERT no banco
 
