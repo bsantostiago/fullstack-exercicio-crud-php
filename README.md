@@ -50,7 +50,14 @@ Situação será atualizada de acordo com o valor da média.
 ## 4. Publicação
 
 - Realize a publicação do seu exercício em um servidor gratuito ([Byethost](https://byet.host/), [AwardSpace](https://www.awardspace.com/free-hosting/) ou outro)
-- Me envie por chat privado o endereço do seu exercício concluído.
+
+
+---
+
+## 5. Entrega
+
+- Me envie por chat privado o endereço do seu exercício publicado e um arquivo zipado contendo todo o material do seu exercício (incluíndo SQL do banco de dados). **Obs.:** pode ser enviado o link de um repositório do GitHub.
+
 
 ---
 
