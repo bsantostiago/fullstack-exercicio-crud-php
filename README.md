@@ -47,7 +47,7 @@ Situação será atualizada de acordo com o valor da média.
 ---
 
 
-## 4. Publicação
+## 4. Publicação (se possível)
 
 - Realize a publicação do seu exercício em um servidor gratuito ([Byethost](https://byet.host/), [AwardSpace](https://www.awardspace.com/free-hosting/) ou outro)
 
