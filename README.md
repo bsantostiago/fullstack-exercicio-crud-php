@@ -46,8 +46,16 @@ Situação será atualizada de acordo com o valor da média.
 
 ---
 
+
+## 4. Publicação
+
+- Realize a publicação do seu exercício em um servidor gratuito ([Byethost](https://byet.host/), [AwardSpace](https://www.awardspace.com/free-hosting/) ou outro)
+- Me envie por chat privado o endereço do seu exercício concluído.
+
+---
+
 ## DESAFIO 🔥
-- Em **visualizar.php**, mostre em azul quando aprovado, e em vermelho quando reprovado.
+- Em **visualizar.php**, destaque de alguma forma quando aprovado, e de outra forma quando reprovado.
 
 ## DESAFIOS TURBINADOS 🔥💥💯
 
